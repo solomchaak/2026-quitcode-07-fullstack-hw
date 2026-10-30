@@ -100,23 +100,21 @@
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-clarify.test.ts#L95 |
 | @yuriivynar | https://property-workflows-eta.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-clarify.test.ts#L151 |
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-name-versioned.test.ts#L111 |
-| @OleksandrMartynov | https://property-workflows-rho.vercel.app | admin (pm-admin@example.test) | усі AC з браузера | не прийнято: немає accounts.zip, 30.10.2026 | https://github.com/OleksandrMartynov/property-workflows/issues/41 |
-| @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | усі AC з браузера | не прийнято: немає accounts.zip, 30.10.2026 | https://github.com/OleksandrMartynov/property-workflows/issues/41 |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-03 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-04 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-05 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-DSYS-02 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-06 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-07 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-16 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-DSYS-04 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | не увійшов | AC-DSYS-03 | ✅ | — |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | не увійшов | AC-EDITOR-09 | ✅ | — |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-08 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/templates/editor-actions.test.ts#L2 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-11 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/db/template-page-states-db.test.ts#L95 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/db/template-page-states-db.test.ts#L117 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/templates/editor-actions-anon.test.ts#L1 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/db/template-page-states-db.test.ts#L179 |
-
-План приймання для @OleksandrMartynov (його прод не прийнято, бо в репо немає accounts.zip; AC напряму закриті тестами в таблиці вище):
-
-| AC | Роль | Кроки | Очікуване |
-|---|---|---|---|
-| AC-EDITOR-03 | admin | Додати задачу в шаблон, зберегти шаблон | «Version N saved», нова версія стала поточною, позначка «Unpublished changes» зникла |
-| AC-EDITOR-04 | admin | Створити шаблон, усі задачі optional, зберегти | «A template needs at least one required task», версія не створена |
-| AC-DSYS-02 | manager | Відкрити редактор шаблону за прямим посиланням | «Not enough rights» і посилання «Back to templates», вмісту редактора немає |
-| AC-EDITOR-07 | manager | Відкрити список версій за прямим посиланням | «Not enough rights», версій немає |
-| AC-DSYS-03, AC-EDITOR-09 | не увійшов | Відкрити посилання на ран і на редактор у вікні інкогніто | Сторінка входу, даних немає |
 
 ## Розробник
 
