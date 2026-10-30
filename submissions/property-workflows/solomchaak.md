@@ -33,12 +33,12 @@
 | @dmudryk | https://property-workflows-bravo16.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-07 | ✅ | — |
 | @dmudryk | https://property-workflows-bravo16.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-16 | ✅ | — |
 | @dmudryk | https://property-workflows-bravo16.vercel.app | manager (pm-manager@example.test) | AC-DSYS-04 | ✅ | — |
-| @dmudryk | https://property-workflows-bravo16.vercel.app | не увійшов (вікно інкогніто) | AC-DSYS-03 | ✅ | — |
-| @dmudryk | https://property-workflows-bravo16.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-09 | ✅ | — |
+| @dmudryk | https://property-workflows-bravo16.vercel.app | не увійшов | AC-DSYS-03 | ✅ | — |
+| @dmudryk | https://property-workflows-bravo16.vercel.app | не увійшов | AC-EDITOR-09 | ✅ | — |
 | @dmudryk | https://property-workflows-bravo16.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-08 | ✅ (тест) | https://github.com/dmudryk/property-workflows/blob/12bd69d8344dd172af032ca83b720ecb14e46b16/tests/db/templates.test.ts#L201 |
 | @dmudryk | https://property-workflows-bravo16.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-11 | ✅ (тест) | https://github.com/dmudryk/property-workflows/blob/12bd69d8344dd172af032ca83b720ecb14e46b16/tests/db/template-rules.test.ts#L87 |
 | @dmudryk | https://property-workflows-bravo16.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/dmudryk/property-workflows/blob/12bd69d8344dd172af032ca83b720ecb14e46b16/tests/db/template-rules.test.ts#L134 |
-| @dmudryk | https://property-workflows-bravo16.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-26 | ✅ (тест) | https://github.com/dmudryk/property-workflows/blob/12bd69d8344dd172af032ca83b720ecb14e46b16/tests/db/template-rules.test.ts#L281 |
+| @dmudryk | https://property-workflows-bravo16.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/dmudryk/property-workflows/blob/12bd69d8344dd172af032ca83b720ecb14e46b16/tests/db/template-rules.test.ts#L281 |
 | @dmudryk | https://property-workflows-bravo16.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/dmudryk/property-workflows/blob/12bd69d8344dd172af032ca83b720ecb14e46b16/tests/db/template-rules.test.ts#L326 |
 | @vsmrnk | https://property-workflows.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-03 | ✅ | — |
 | @vsmrnk | https://property-workflows.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-04 | ✅ | — |
@@ -48,12 +48,12 @@
 | @vsmrnk | https://property-workflows.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-07 | ✅ | — |
 | @vsmrnk | https://property-workflows.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-16 | ✅ | — |
 | @vsmrnk | https://property-workflows.vercel.app | manager (pm-manager@example.test) | AC-DSYS-04 | ✅ | — |
-| @vsmrnk | https://property-workflows.vercel.app | не увійшов (вікно інкогніто) | AC-DSYS-03 | ✅ | — |
-| @vsmrnk | https://property-workflows.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-09 | ✅ | — |
+| @vsmrnk | https://property-workflows.vercel.app | не увійшов | AC-DSYS-03 | ✅ | — |
+| @vsmrnk | https://property-workflows.vercel.app | не увійшов | AC-EDITOR-09 | ✅ | — |
 | @vsmrnk | https://property-workflows.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-08 | ✅ (тест) | https://github.com/vsmrnk/property-workflows/blob/fe0a990ea2d384f204a22c3349a89ae8721ab899/tests/db/template-versions-db.test.ts#L239 |
 | @vsmrnk | https://property-workflows.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-11 | ✅ (тест) | https://github.com/vsmrnk/property-workflows/blob/fe0a990ea2d384f204a22c3349a89ae8721ab899/tests/db/template-clarify-db.test.ts#L1 |
 | @vsmrnk | https://property-workflows.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/vsmrnk/property-workflows/blob/fe0a990ea2d384f204a22c3349a89ae8721ab899/tests/db/template-clarify-db.test.ts#L105 |
-| @vsmrnk | https://property-workflows.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-26 | ✅ (тест) | https://github.com/vsmrnk/property-workflows/blob/fe0a990ea2d384f204a22c3349a89ae8721ab899/tests/templates/editor.test.tsx#L108 |
+| @vsmrnk | https://property-workflows.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/vsmrnk/property-workflows/blob/fe0a990ea2d384f204a22c3349a89ae8721ab899/tests/templates/editor.test.tsx#L108 |
 | @vsmrnk | https://property-workflows.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/vsmrnk/property-workflows/blob/fe0a990ea2d384f204a22c3349a89ae8721ab899/tests/db/template-clarify-db.test.ts#L254 |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-03 | ✅ | — |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-04 | ✅ | — |
@@ -63,12 +63,12 @@
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-07 | ✅ | — |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-16 | ✅ | — |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | manager (pm-manager@example.test) | AC-DSYS-04 | ✅ | — |
-| @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | не увійшов (вікно інкогніто) | AC-DSYS-03 | ✅ | — |
-| @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-09 | ✅ | — |
+| @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | не увійшов | AC-DSYS-03 | ✅ | — |
+| @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | не увійшов | AC-EDITOR-09 | ✅ | — |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-08 | ✅ (тест) | https://github.com/vhrytsyndyshynquitcode/property-workflows/blob/fcc006d395c0b7887b348fac3498ff5340f52956/tests/db/profiles-role.test.ts#L6 |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-11 | ✅ (тест) | https://github.com/vhrytsyndyshynquitcode/property-workflows/blob/fcc006d395c0b7887b348fac3498ff5340f52956/tests/db/template-editor-oct27.test.ts#L75 |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/vhrytsyndyshynquitcode/property-workflows/blob/fcc006d395c0b7887b348fac3498ff5340f52956/tests/templates/editor-oct27.test.ts#L22 |
-| @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-26 | ✅ (тест) | https://github.com/vhrytsyndyshynquitcode/property-workflows/blob/fcc006d395c0b7887b348fac3498ff5340f52956/tests/db/template-editor-oct27.test.ts#L207 |
+| @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/vhrytsyndyshynquitcode/property-workflows/blob/fcc006d395c0b7887b348fac3498ff5340f52956/tests/db/template-editor-oct27.test.ts#L207 |
 | @vhrytsyndyshynquitcode | https://property-workflows-one.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/vhrytsyndyshynquitcode/property-workflows/blob/fcc006d395c0b7887b348fac3498ff5340f52956/tests/db/template-editor-oct27.test.ts#L156 |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-03 | ✅ | — |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-04 | ✅ | — |
@@ -78,12 +78,12 @@
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-07 | ✅ | — |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-16 | ✅ | — |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | manager (pm-manager@example.test) | AC-DSYS-04 | ✅ | — |
-| @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | не увійшов (вікно інкогніто) | AC-DSYS-03 | ✅ | — |
-| @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-09 | ✅ | — |
+| @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | не увійшов | AC-DSYS-03 | ✅ | — |
+| @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | не увійшов | AC-EDITOR-09 | ✅ | — |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-08 | ✅ (тест) | https://github.com/ylehenkyi-qc/property-workflows/blob/289f53f192d5a190224b52eb9bcdd400fa2d5af6/tests/db/template-versions.test.ts#L206 |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-11 | ✅ (тест) | https://github.com/ylehenkyi-qc/property-workflows/blob/289f53f192d5a190224b52eb9bcdd400fa2d5af6/tests/db/template-editor-rules.test.ts#L71 |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/ylehenkyi-qc/property-workflows/blob/289f53f192d5a190224b52eb9bcdd400fa2d5af6/tests/db/template-editor-rules.test.ts#L84 |
-| @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-26 | ✅ (тест) | https://github.com/ylehenkyi-qc/property-workflows/blob/289f53f192d5a190224b52eb9bcdd400fa2d5af6/tests/db/template-editor-rules.test.ts#L104 |
+| @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/ylehenkyi-qc/property-workflows/blob/289f53f192d5a190224b52eb9bcdd400fa2d5af6/tests/db/template-editor-rules.test.ts#L104 |
 | @ylehenkyi-qc | https://pmwp-ylehenkyi.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/ylehenkyi-qc/property-workflows/blob/289f53f192d5a190224b52eb9bcdd400fa2d5af6/tests/db/template-editor-rules.test.ts#L144 |
 | @yuriivynar | https://property-workflows-eta.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-03 | ✅ | — |
 | @yuriivynar | https://property-workflows-eta.vercel.app | admin (pm-admin@example.test) | AC-EDITOR-04 | ✅ | — |
@@ -93,18 +93,19 @@
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-07 | ✅ | — |
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-16 | ✅ | — |
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-DSYS-04 | ✅ | — |
-| @yuriivynar | https://property-workflows-eta.vercel.app | не увійшов (вікно інкогніто) | AC-DSYS-03 | ✅ | — |
-| @yuriivynar | https://property-workflows-eta.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-09 | ✅ | — |
+| @yuriivynar | https://property-workflows-eta.vercel.app | не увійшов | AC-DSYS-03 | ✅ | — |
+| @yuriivynar | https://property-workflows-eta.vercel.app | не увійшов | AC-EDITOR-09 | ✅ | — |
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-08 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-versions.test.ts#L206 |
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-11 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-clarify.test.ts#L83 |
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-clarify.test.ts#L95 |
-| @yuriivynar | https://property-workflows-eta.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-26 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-clarify.test.ts#L151 |
+| @yuriivynar | https://property-workflows-eta.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-clarify.test.ts#L151 |
 | @yuriivynar | https://property-workflows-eta.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/yuriivynar/property-workflows/blob/5c4ef5bda555b91a524d2e2918bb687892262b5b/tests/db/template-name-versioned.test.ts#L111 |
-| @OleksandrMartynov | https://property-workflows-rho.vercel.app | admin і manager | усі AC з браузера | не прийнято: немає accounts.zip, 30.10.2026 | https://github.com/OleksandrMartynov/property-workflows/issues/41 |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | admin (pm-admin@example.test) | усі AC з браузера | не прийнято: немає accounts.zip, 30.10.2026 | https://github.com/OleksandrMartynov/property-workflows/issues/41 |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | усі AC з браузера | не прийнято: немає accounts.zip, 30.10.2026 | https://github.com/OleksandrMartynov/property-workflows/issues/41 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-08 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/templates/editor-actions.test.ts#L2 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-11 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/db/template-page-states-db.test.ts#L95 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-12 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/db/template-page-states-db.test.ts#L117 |
-| @OleksandrMartynov | https://property-workflows-rho.vercel.app | не увійшов (вікно інкогніто) | AC-EDITOR-26 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/templates/editor-actions-anon.test.ts#L1 |
+| @OleksandrMartynov | https://property-workflows-rho.vercel.app | не увійшов | AC-EDITOR-26 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/templates/editor-actions-anon.test.ts#L1 |
 | @OleksandrMartynov | https://property-workflows-rho.vercel.app | manager (pm-manager@example.test) | AC-EDITOR-29 | ✅ (тест) | https://github.com/OleksandrMartynov/property-workflows/blob/4c8ad478e533a6b6f45c721fde0ef6ad5d755550/tests/db/template-page-states-db.test.ts#L179 |
 
 План приймання для @OleksandrMartynov (його прод не прийнято, бо в репо немає accounts.zip; AC напряму закриті тестами в таблиці вище):
